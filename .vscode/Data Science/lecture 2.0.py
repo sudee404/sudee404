@@ -10,4 +10,4 @@ print("Variance = {0:.1f} ".format(np.var(pl)))
 #deviation
 print("Standard deviation = {0:.1f} ".format(np.std(pl)))
 stdv=np.std(pl)
-print((pl[pl>(pl-stdv) & pl>(pl+stdv)]))
+print((pl[(pl>(pl-stdv) & pl>(pl+stdv))]))

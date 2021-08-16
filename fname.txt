@@ -1,6 +1,0 @@
-Name: ['victor']
-Age: [32]
-Gender: ['male']
-Name: ['bright']
-Age: [24]
-Gender: ['female']
