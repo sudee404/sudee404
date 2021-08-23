@@ -1,4 +1,3 @@
-from time import sleep
 from math import pi
 shape=input("choose shape: ")
 if shape=="circle" or "c" or C:
