@@ -1,0 +1,12 @@
+nums = ['sudi', 'abdalla']
+nums.append("otieno")
+nums.append("sudi")
+nums.insert(0,"abdull")
+print(nums.index("abdull"))
+print(nums.count("sudi"))
+print(len(nums))
+print(nums)
+nums.remove("sudi")
+print(nums)
+nums.reverse()
+print(nums)
