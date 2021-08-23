@@ -2,16 +2,16 @@
 from math import pi,pow
 
 def tarea(h,b):
-    print(0.5*h*b)
+    return(0.5*h*b)
 
 def carea(r):
-    print(pi*pow(r,2))
+    return(pi*pow(r,2))
 
 def sarea(s):
-    print(pow(s,2))
+    return(pow(s,2))
 
 def rarea(l,w):
-    print(l*w)
+    return(l*w)
 
 def setShape():
     shapes=["rectangle","square","triangle","circle"]
