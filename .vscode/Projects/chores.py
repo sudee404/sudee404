@@ -1,0 +1,1 @@
+chores=["cooking","cleaning","washing","errands"]
