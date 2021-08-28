@@ -1,0 +1,1 @@
+name=("{d}.txt".format(d=naming))
