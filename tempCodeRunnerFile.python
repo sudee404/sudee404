@@ -1,0 +1,4 @@
+import random
+x=int(input("Pick a number between 1 and 10: "))
+y=random.randint(1,10)
+print(y)
