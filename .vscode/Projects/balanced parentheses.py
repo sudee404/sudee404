@@ -10,9 +10,7 @@ def balanced(expression):
 
         def push(self,expression):
             self.expression = expression
-            for i in expression:
-                if i=="(":
-                    self.items.insert(0,i)
+            self.items=list(filter(lambda x:x==")",expression)
 
         def pop(self):
             for i in expression:
