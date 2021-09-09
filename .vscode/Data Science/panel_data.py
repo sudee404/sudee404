@@ -15,3 +15,6 @@ print(df.ages)
 print(df[["heights","ages"]])
 
 #slicing
+print(df.iloc[::-1])
+#conditions
+print(df[(df["ages"]>16)&(df["heights"]>150)])
