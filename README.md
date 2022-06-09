@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudee404
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on an AI project
+- 👀 I’m interested in machine learning and data science and more recently web development
+- 🌱 I’m currently learning ML and DL
+- 💞️ I’m looking to collaborate on an AI web project
 - 📫 How to reach me sudaise18@gmail.com
 
 <!---
