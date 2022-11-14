@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudee404
-- 👀 I’m interested in web and android development
-- 🌱 I’m currently learning ML and DL
+- 👀 I’m interested in web and android development, Data science and analysis
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on a web and mobile application
 - 📫 How to reach me sudaise18@gmail.com
 
