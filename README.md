@@ -89,8 +89,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/sudee404"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudee404&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="sudee404"/></a>
-<a href="https://github.com/sudee404"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=sudee404&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="sudee404"/></a>
+<a href="https://github.com/sudee404"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudee404&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="sudee404"/></a>
+<a href="https://github.com/sudee404"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=sudee404&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="sudee404"/></a>
 </p>
 
 --- 
