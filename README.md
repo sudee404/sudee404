@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sudee404
-- 👀 I’m interested in web and android development and data analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on a web and mobile application
+- 👋 Hi, I’m Sudi
+- 👀 I’m interested in backend development with django
+- 🌱 I’m currently learning Data Analysis 
+- 💞️ I’m looking to collaborate on any python related project
 - 📫 How to reach me sudaise18@gmail.com
 
 <!---
