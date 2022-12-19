@@ -6,7 +6,7 @@
 ### <div align="center">I'm Sudi, a Computer Technology student and Backend Developer</div>  
   
 
-- 🔭 I’m currently working on [Phinder](https://phinder-sudee404.koyeb.app/r)  
+- 🔭 I’m currently working on [Phinder](https://phinder-sudee404.koyeb.app)  
   
 
 - 🌱 I’m currently learning Data Analytics   
