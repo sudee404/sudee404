@@ -16,7 +16,10 @@
   
 
 - ⚡ Fun fact: Anime and music are what keep me going  
-  
+
+
+- Check out my portfolio website [here](https://sudee.netlify.app/)  
+
 
 ---  
 
