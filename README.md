@@ -2,7 +2,7 @@
 <img src="https://github.com/sudee404/sudee404/blob/main/kindpng_1272120.png"/>
 </div>  
   
-
+## <div align="center">Hi There</div>  
 ### <div align="center">I'm Sudi, a Computer Technology student and Backend Developer</div>  
   
 
