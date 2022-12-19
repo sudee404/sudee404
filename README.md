@@ -92,7 +92,7 @@
 <a href="https://github.com/sudee404"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudee404&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="sudee404"/></a>
 <a href="https://github.com/sudee404"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=sudee404&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="sudee404"/></a>
 </p>
-
+<p>PS: The stats in no way indicate my proficiency and specialisations, it is just an indication of what language I've used the most</p>
 --- 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=tg6l1xkwz2wtxwq6tby05ghv7&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
