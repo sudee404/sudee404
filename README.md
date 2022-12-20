@@ -84,11 +84,11 @@
 ## Github Stats 
 
 <p align="center">
-<a href="https://github.com/sudee404"><img src="http://github-readme-streak-stats.herokuapp.com?user=Niraj-Dilshan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
+<a href="https://github.com/sudee404"><img src="http://github-readme-streak-stats.herokuapp.com?user=sudee404&count_private=true&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/sudee404"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudee404&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="sudee404"/></a>
+<a href="https://github.com/sudee404"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudee404&theme=midnight-purple&show_icons=true&count_private=true&layout=compact&border_color=7f3ace" alt="sudee404"/></a>
 <a href="https://github.com/sudee404"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=sudee404&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="sudee404"/></a>
 </p>
 <br/>
