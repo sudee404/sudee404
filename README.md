@@ -92,7 +92,7 @@
 <a href="https://github.com/sudee404"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=sudee404&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="sudee404"/></a>
 </p>
 <br/>
-<p>PS: The stats in no way indicate my proficiency and specialisations, it is just an indication of what language I've used the most</p>
+<p>PS: The stats in no way indicate my proficiency and specializations, it is just an indication of what language I've used the most</p>
 
 
 --- 
