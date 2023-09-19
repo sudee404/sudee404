@@ -3,19 +3,19 @@
 </div>  
   
 ## <div align="center">Hi There</div>  
-### <div align="center">I'm Sudi, a Computer Technology student and Backend Developer</div>  
+### <div align="center">I'm Sudi, a Backend( Full Stack ) Developer</div>  
   
 
-- 🔭 I’m currently working on [Phinder](https://phinder-sudee404.koyeb.app)  
+- 🔭 I’m currently working on [Mojomentors](https://www.mojomentors.com)  
   
 
-- 🌱 I’m currently learning Data Analytics   
+- 🌱 I’m currently learning WebRTC and NextJS   
   
 
-- ❓ Ask me about anything related to python, Django and react  
+- ❓ Ask me about anything related to anime, games and Marvel vs DC  
   
 
-- ⚡ Fun fact: Anime and music are what keep me going  
+- ⚡ Fun fact: Anime is an underated genre  
 
 
 - Check out my portfolio website [here](https://sudee.netlify.app/)  
