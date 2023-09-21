@@ -3,7 +3,7 @@
 </div>  
   
 ## <div align="center">Hi There</div>  
-### <div align="center">I'm Sudi, a Backend( Full Stack ) Developer</div>  
+### <div align="center">I'm Sudi, a Backend Developer</div>  
   
 
 - 🔭 I’m currently working on [Mojomentors](https://www.mojomentors.com)  
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to anime, games and Marvel vs DC  
   
 
-- ⚡ Fun fact: Anime is an underated genre  
+- ⚡ Fun fact: Anime is an underrated genre  
 
 
 - Check out my portfolio website [here](https://sudee.netlify.app/)  
