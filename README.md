@@ -7,15 +7,15 @@
 
     
 
-- 🔭 I’m currently working on [Mojomentors](https://www.mojomentors.com)
+- 🔭 I’m currently working on [Build Note](https://buildnote.ai/)
   
-- 🌱 I’m currently learning WebRTC and NextJS
+- 🌱 I’m currently learning AI Engineering
   
 - ❓ Ask me about anything related to anime, games and Marvel vs DC
   
 - ⚡ Fun fact: *Anime is an underrated genre*
   
-- 😉 Check out my portfolio website [here](https://sudee.netlify.app/)  
+- 😉 Check out my portfolio website [here](https://sudia.vercel.app/)  
 
 <hr/>
 
