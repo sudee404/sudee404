@@ -7,9 +7,9 @@
 
     
 
-- 🔭 I’m currently working on [Build Note](https://buildnote.ai/)
+- 🔭 I’m currently working on [Sage Hub](https://sagehub.co.ke/)
   
-- 🌱 I’m currently learning AI Engineering
+- 🌱 I’m currently trying to beat Malenia
   
 - ❓ Ask me about anything related to anime, games and Marvel vs DC
   
