@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sudi</h1>
-<h3 align="center">Software Engineer | Backend Developer </h3>
+<h3 align="center">AI Engineer | Backend Developer </h3>
 
     
 
 - 🔭 I’m currently working on [Sage Hub](https://sagehub.co.ke/)
   
-- 🌱 I’m currently trying to beat Malenia
+- 🌱 I’m currently trying to beat Malenia and Radagon
   
 - ❓ Ask me about anything related to anime, games and Marvel vs DC
   
